@@ -1,0 +1,72 @@
+.box1{
+  width: 100px;
+  height: 100px;
+  background: red;
+  margin-top: 20px;
+  display: none;
+}
+.box2{
+  width: 100px;
+  height: 100px;
+  background: green;
+  margin-top: 20px;
+  display: none;
+}
+.box3{
+  width: 100px;
+  height: 100px;
+  background: gray;
+  margin-top: 20px;
+  display: none;
+}
+/*----------slide*/
+.bt{
+  width: 521px;
+  background: #333;
+  text-align: center;
+  color: #fff;
+  margin: auto;
+  padding: 10px;
+  font-size: 20px;
+  font-weight: 500;
+  display: block;
+}
+.slidee{
+  width: 500px;
+  background: #000;
+  text-align: center;
+  color: #fff;
+  margin: auto;
+  padding: 10px;
+  font-size: 20px;
+
+}
+#razaa{
+  width: 300px;
+}
+.remove{
+  border: 2px solid #222;
+  background-color: red;
+  padding: 30px;
+  color: #fff;
+
+}
+#btnremove{
+  padding: 10px;
+  margin-bottom: 100px;
+  background-color: red;
+  color: #fff;
+  border-radius: 10px;
+  border: 1px solid #222;
+
+}
+#btnremove:hover{
+  background: green;
+  color: #000;
+}
+.diman{
+  width: 100px;
+  height: 100px;
+  border: 2px solid red;
+  background: black;
+}
